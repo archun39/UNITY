@@ -31,7 +31,9 @@
 - 각 미니게임들의 Scene은 Main Scene에서 멀리 떨어진 곳에 있음
 - 플레이어들만 좌표를 이동시켜서 진행함.
 
-# 2주차 - [경찰과 도둑 : 전체적인 설계]
+------------------
+
+# 💡 2주차 - [경찰과 도둑 : 전체적인 설계]
 
 ## 게임 소개
 
@@ -113,10 +115,13 @@
     - 아이템 터치시 (or 1~9번호) 아이템을 사용창으로 가져올 수 있다.
 - 조작
     - 이동 : 좌측 하단 조이스틱
-    - 상호작용 및 아이템 사용 버튼 : 우측 하단
+    - 상호작용 및 아이템 사용 버튼
+: 우측 하단
 - 현재 상황 : 우측 상단
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/c29c003a-abcb-4cb2-a89e-66098b335db2/Untitled.png)
+ <img width="528" alt="Untitled" src="https://user-images.githubusercontent.com/39714917/191142665-34eea731-e1b9-49aa-98bc-d8433ae23aed.png">
+
+
 
 ## 구조 설계
 
