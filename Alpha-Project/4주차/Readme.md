@@ -5,6 +5,9 @@
 
 
 ## Joystic asset을 이용한 플레이어 이동 구현
+
+<img width="510" alt="image" src="https://user-images.githubusercontent.com/39714917/192506768-f2128a2c-0ee6-4df4-b351-606d14ed3d64.png">
+
 ## NetCode를 이용한 멀티플레이어 호스트와 클라이언트 오브젝트 생성 구현
 
 [배운내용] 
