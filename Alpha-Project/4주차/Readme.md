@@ -14,6 +14,8 @@ Rotate 영역 :  Rotate영역 터치시 메인카메라가 회전을 할 수 있
 
 
 ## NetCode를 이용한 멀티플레이어 호스트와 클라이언트 오브젝트 생성 구현
+<img width="1512" alt="스크린샷 2022-09-27 19 53 31" src="https://user-images.githubusercontent.com/39714917/192507714-f39cad78-bc1a-4f2a-ba2d-9aa1b13289e6.png">
+
 
 [배운내용] 
 1. Input.GetAxisRaw() : "Horizontal" 과 "Vertical"을 사용하여 받는다.
