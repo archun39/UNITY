@@ -8,6 +8,11 @@
 
 <img width="510" alt="image" src="https://user-images.githubusercontent.com/39714917/192506768-f2128a2c-0ee6-4df4-b351-606d14ed3d64.png">
 
+Control 영역 : Control영역에서 터치입력시 조이스틱이 나타나며 플레이어를 조작할 수 있습니다.
+
+Rotate 영역 :  Rotate영역 터치시 메인카메라가 회전을 할 수 있게 하였습니다
+
+
 ## NetCode를 이용한 멀티플레이어 호스트와 클라이언트 오브젝트 생성 구현
 
 [배운내용] 
