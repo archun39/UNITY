@@ -15,12 +15,13 @@
 4. 같은 아이템도 다른 슬롯에 등록한다.
 5. 아이템은 랜덤박스를 통해 랜덤으로 획득된다.
 
-![Untitled3](https://user-images.githubusercontent.com/39714917/201254435-800c9b3e-ed7e-4ca1-ae75-f4bc8f73bfd7.png)
+![Untitled1](https://user-images.githubusercontent.com/39714917/201254444-386dcb1d-a1a1-48f6-84ee-e2c74965cb67.png)
 ![Untitled2](https://user-images.githubusercontent.com/39714917/201254440-e14e2ceb-0182-4abe-8809-794a2aea203b.png)
 
 <아이템 먹기 전>
 
-![Untitled1](https://user-images.githubusercontent.com/39714917/201254444-386dcb1d-a1a1-48f6-84ee-e2c74965cb67.png)
+![Untitled3](https://user-images.githubusercontent.com/39714917/201254435-800c9b3e-ed7e-4ca1-ae75-f4bc8f73bfd7.png)
+
 
 <아이템 먹은 후, 2번 슬롯에 아이템이 등록되었다.>
 
