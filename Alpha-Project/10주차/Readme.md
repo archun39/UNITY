@@ -53,6 +53,12 @@
 
  PnTItemManager (서버)를 통해서 기능 구현
 
+
+## 구현 완료
+
+아이템 습득을 pickup.cs를 통해서 구현 완료.
+slot.cs 와 useitem.cs를 통해서 구현 완료.
+PnTItemManager(서버)가 아이템의 기능을 총괄함
 ## 에러 발생
 
 1. 한 플레이어가 습득한 아이템이 공통적으로 인식된다.
